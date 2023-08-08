@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdsTest", "AdsTest\AdsTest.csproj", "{DEA7909F-ED57-4634-968F-16F698664786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA7909F-ED57-4634-968F-16F698664786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA7909F-ED57-4634-968F-16F698664786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA7909F-ED57-4634-968F-16F698664786}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DEA7909F-ED57-4634-968F-16F698664786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA7909F-ED57-4634-968F-16F698664786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA7909F-ED57-4634-968F-16F698664786}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
